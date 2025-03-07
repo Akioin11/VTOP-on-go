@@ -1,4 +1,4 @@
-name: minivtop
+name: vtop-ongo
 description: Mini VTOP is an unofficial VIT Bhopal University VTOP website app that uses the power of WebView to create a user-friendly app.
 
 # The following line prevents the package from being accidentally published to
